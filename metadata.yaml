@@ -1,0 +1,26 @@
+_repo: Thirty-Years-on-the-Frontier_44032
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44032-h/images/cover.jpg
+creator:
+  author:
+    agent_name: McReynolds, Robert
+    birthdate: 1854
+    deathdate: 1928
+    gutenberg_agent_id: '34391'
+    url: http://www.gutenberg.org/2009/agents/34391
+description: ''
+gutenberg_issued: '2013-10-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44032'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F590.3'
+- !lcsh 'Frontier and pioneer life -- West (U.S.)'
+title: Thirty Years on the Frontier
+url: http://www.gutenberg.org/ebooks/44032
