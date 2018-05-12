@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '34391'
     url: http://www.gutenberg.org/2009/agents/34391
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44032#Thirty-Years-on-the-Frontier
 gutenberg_issued: '2013-10-25'
 gutenberg_type: Text
 identifiers:
